@@ -1,0 +1,16 @@
+.addNewUser .input-group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.addNewUser label{
+    width: 30%;
+}
+.addNewUser input{
+    width: 70%;
+    padding:8px;
+}
+.input-submit{
+    width:200px;
+    text-align: center;
+}
