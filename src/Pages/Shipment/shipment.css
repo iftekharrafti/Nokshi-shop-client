@@ -1,0 +1,35 @@
+.shipment-form input{
+    width: 98%;
+    padding:10px;
+    margin-top: 12px;
+}
+.shipment-form .input-group{
+    margin-bottom: 15px;
+}
+.input-email-password{
+    display: flex;
+}
+.input-group-name{
+    width:48%;
+    margin-right: 4%;
+}
+.input-group-email{
+    width:48%;
+}
+.input-group-name input, .input-group-email input{
+    width: 95%;
+}
+
+.city-state-zip-shipment{
+    display: flex;
+}
+.city-state-zip-shipment input{
+    width: 100%;
+}
+.city-shipment, .state-shipment, .zip-shipment{
+    width:31%;
+    margin-right: 3%;
+}
+.city-shipment input, .state-shipment input{
+    margin-right: 3.5%;
+}
